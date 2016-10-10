@@ -16,3 +16,9 @@ Now you have to make 3 tension divider bridge. Like this :
 This tension divider bridge will create 4 tension step (*something around 5V, 3V, 2V and 1V*).
 
 Upload the program and have fun !
+
+#Care french content
+
+Vous me direz que le programme n'est pas minifier du tout. D'un autre cote il est donc plus facile à comprendre.
+
+Peace !
