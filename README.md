@@ -9,3 +9,10 @@ You will need :
   - 2 22K resistors
   - 1 2.2K resistors
   
+Now you have to make 3 tension divider bridge. Like this :
+
+<img alt="Inc" />
+
+This tension divider bridge will create 4 tension step (*something around 5V, 3V, 2V and 1V*).
+
+Upload the program and have fun !
